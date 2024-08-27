@@ -24,3 +24,8 @@ Tenemos Link de referencia mas documentos Agosto 2024
 
 - Dado de alta en Coddy Tech
 ![image](https://github.com/user-attachments/assets/a12a4457-58d2-494d-b91d-6c5e5719d920)
+
+## Diseño web con Figma
+- https://www.figma.com/es-la/
+- ![image](https://github.com/user-attachments/assets/904c6993-5de6-4117-a6cf-cb43a483e4e5)
+

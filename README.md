@@ -21,3 +21,6 @@ Tenemos Link de referencia mas documentos Agosto 2024
 
 - Programacion Online
 - https://coddy.tech/
+
+- Dado de alta en Coddy Tech
+![image](https://github.com/user-attachments/assets/a12a4457-58d2-494d-b91d-6c5e5719d920)

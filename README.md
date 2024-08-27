@@ -18,3 +18,6 @@ Tenemos Link de referencia mas documentos Agosto 2024
 - https://www.w3schools.com/python/default.asp
 - Descargar Phyton
 - https://www.python.org/downloads/
+
+- Programacion Online
+- https://coddy.tech/
